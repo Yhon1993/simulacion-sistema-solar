@@ -1,0 +1,70 @@
+{
+    "cuerpos": [
+        {
+            "nombre": "Sol Inventado",
+            "posicion": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "velocidad": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "masa": "2.0e+30",
+            "diametro": "120"
+        },
+        {
+            "nombre": "Planeta Alpha",
+            "posicion": {
+                "x": "150000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "30000"
+            },
+            "masa": "6.0e+24",
+            "diametro": "15"
+        },
+        {
+            "nombre": "Planeta Beta",
+            "posicion": {
+                "x": "250000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "25000"
+            },
+            "masa": "4.0e+24",
+            "diametro": "12"
+        },
+        {
+            "nombre": "Planeta Gamma",
+            "posicion": {
+                "x": "400000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "22000"
+            },
+            "masa": "8.0e+23",
+            "diametro": "10"
+        },
+        {
+            "nombre": "Luna de Alpha",
+            "posicion": {
+                "x": "150200000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "32000"
+            },
+            "masa": "7.3e+22",
+            "diametro": "5"
+        }
+    ],
+    "G": "6.6743e-11"
+}

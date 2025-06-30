@@ -1,0 +1,122 @@
+{
+    "cuerpos": [
+        {
+            "nombre": "Sol",
+            "posicion": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "velocidad": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "masa": "1.9885e+30",
+            "diametro": "100"
+        },
+        {
+            "nombre": "Mercurio",
+            "posicion": {
+                "x": 10000000000,
+                "y": 0.0
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "58000"  
+            },
+            "masa": "3.301e+23",
+            "diametro": "10"
+        },
+        {
+            "nombre": "Venus",
+            "posicion": {
+                "x": "30000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "52000"
+            },
+            "masa": "4.8673e+24",
+            "diametro": "13"
+        },
+        {
+            "nombre": "Tierra",
+            "posicion": {
+                "x": "50000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "45000"
+            },
+            "masa": "5.9722e+24",
+            "diametro": "15"
+        },
+        {
+            "nombre": "Marte",
+            "posicion": {
+                "x": "75000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "40000"
+            },
+            "masa": "6.4169e+23",
+            "diametro": "14"
+        },
+        {
+            "nombre": "Jupiter",
+            "posicion": {
+                "x": "100000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "35000"
+            },
+            "masa": "1.89813e+27",
+            "diametro": "30"
+        },
+        {
+            "nombre": "Saturno",
+            "posicion": {
+                "x": "150000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "30000"
+            },
+            "masa": "5.6832e+26",
+            "diametro": "27"
+        },
+        {
+            "nombre": "Urano",
+            "posicion": {
+                "x": "200000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "25000"
+            },
+            "masa": "8.6811e+25",
+            "diametro": "21"
+        },
+        {
+            "nombre": "Neptuno",
+            "posicion": {
+                "x": "250000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "20000"
+            },
+            "masa": "1.02409e+26",
+            "diametro": "24"
+        }
+    ],
+    "G": "6.6743e-11"
+}

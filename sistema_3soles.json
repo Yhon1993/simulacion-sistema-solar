@@ -1,0 +1,96 @@
+{
+    "cuerpos": [
+        {
+            "nombre": "Sol 1",
+            "posicion": {
+                "x": -60000000000,
+                "y": 0.0
+            },
+            "velocidad": {
+                "x": 0.0,
+                "y": "25000"
+            },
+            "masa": "1.5e+30",
+            "diametro": "100"
+        },
+        {
+            "nombre": "Sol 2",
+            "posicion": {
+                "x": 60000000000,
+                "y": 0.0
+            },
+            "velocidad": {
+                "x": 0.0,
+                "y": "-25000"
+            },
+            "masa": "1.5e+30",
+            "diametro": "100"
+        },
+        {
+            "nombre": "Sol 3",
+            "posicion": {
+                "x": 0.0,
+                "y": 80000000000
+            },
+            "velocidad": {
+                "x": "-15000",
+                "y": "0.0"
+            },
+            "masa": "1.5e+30",
+            "diametro": "100"
+        },
+        {
+            "nombre": "Planeta Delta",
+            "posicion": {
+                "x": "300000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "35000"
+            },
+            "masa": "6.0e+24",
+            "diametro": "16"
+        },
+        {
+            "nombre": "Planeta Epsilon",
+            "posicion": {
+                "x": "400000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "30000"
+            },
+            "masa": "4.0e+24",
+            "diametro": "14"
+        },
+        {
+            "nombre": "Planeta Zeta",
+            "posicion": {
+                "x": "550000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "27000"
+            },
+            "masa": "7.0e+24",
+            "diametro": "18"
+        },
+        {
+            "nombre": "Planeta Theta",
+            "posicion": {
+                "x": "700000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "24000"
+            },
+            "masa": "9.0e+24",
+            "diametro": "20"
+        }
+    ],
+    "G": "6.6743e-11"
+}

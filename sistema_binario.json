@@ -1,0 +1,57 @@
+{
+    "cuerpos": [
+        {
+            "nombre": "Estrella A",
+            "posicion": {
+                "x": -50000000000,
+                "y": 0.0
+            },
+            "velocidad": {
+                "x": 0.0,
+                "y": "20000"
+            },
+            "masa": "1.0e+30",
+            "diametro": "80"
+        },
+        {
+            "nombre": "Estrella B",
+            "posicion": {
+                "x": 50000000000,
+                "y": 0.0
+            },
+            "velocidad": {
+                "x": 0.0,
+                "y": "-20000"
+            },
+            "masa": "1.0e+30",
+            "diametro": "80"
+        },
+        {
+            "nombre": "Planeta 1",
+            "posicion": {
+                "x": "200000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "30000"
+            },
+            "masa": "5.0e+24",
+            "diametro": "14"
+        },
+        {
+            "nombre": "Planeta 2",
+            "posicion": {
+                "x": "350000000000",
+                "y": "0.0"
+            },
+            "velocidad": {
+                "x": "0.0",
+                "y": "25000"
+            },
+            "masa": "3.0e+24",
+            "diametro": "12"
+        }
+    ],
+    "G": "6.6743e-11"
+}

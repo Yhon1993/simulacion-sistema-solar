@@ -1,0 +1,70 @@
+{
+    "cuerpos": [
+        {
+            "nombre": "Aethel (Estrella A)",
+            "posicion": {
+                "x": "-100000000000",
+                "y": "0"
+            },
+            "velocidad": {
+                "x": "0",
+                "y": "22000"
+            },
+            "masa": "1.3e+30",
+            "diametro": "110"
+        },
+        {
+            "nombre": "Bael (Estrella B)",
+            "posicion": {
+                "x": "100000000000",
+                "y": "0"
+            },
+            "velocidad": {
+                "x": "0",
+                "y": "-22000"
+            },
+            "masa": "1.2e+30",
+            "diametro": "100"
+        },
+        {
+            "nombre": "Periphera (Gigante Gaseoso)",
+            "posicion": {
+                "x": "0",
+                "y": "600000000000"
+            },
+            "velocidad": {
+                "x": "-18000",
+                "y": "0"
+            },
+            "masa": "2.0e+27",
+            "diametro": "40"
+        },
+        {
+            "nombre": "Pico (Luna de Periphera)",
+            "posicion": {
+                "x": "0",
+                "y": "601500000000"
+            },
+            "velocidad": {
+                "x": "-17000",
+                "y": "0"
+            },
+            "masa": "1.0e+23",
+            "diametro": "6"
+        },
+        {
+            "nombre": "Nomad (El Intruso)",
+            "posicion": {
+                "x": "-300000000000",
+                "y": "-400000000000"
+            },
+            "velocidad": {
+                "x": "15000",
+                "y": "5000"
+            },
+            "masa": "5.0e+24",
+            "diametro": "18"
+        }
+    ],
+    "G": "6.6743e-11"
+}
